@@ -1,73 +1,26 @@
-[
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	},
-	{
-		"name": "Shotbow",
-		"ip": "us.shotbow.net",
-		"type": "PC"
-	},
-	{
-		"name": "Badlion",
-		"ip": "na.badlion.net",
-		"type": "PC"
-	},
-	{
-		"name": "Wynncraft",
-		"ip": "play.wynncraft.com",
-		"type": "PC"
-	},
-	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC"
-	},
-	{
-		"name": "Cosmic PVP",
-		"ip": "cosmicpvp.me",
-		"type": "PC"
-	},
-	{
-		"name": "Rewinside",
-		"ip": "mc.rewinside.tv",
-		"type": "PC"
-	},
-	{
-		"name": "Epicube",
-		"ip": "play.epicube.fr",
-		"type": "PC"
-	},
-  	{
- 		"name": "Timolia",
- 		"ip": "play.timolia.de",
- 		"type": "PC"
-  	},
-	{
-		"name": "FunCraft",
-		"ip": "premium.funcraft.net",
-		"type": "PC"
-	},
-	{
-		"name": "GommeHD",
-		"ip": "play.gommehd.net",
-		"type": "PC"
-	},
-	{
-		"name": "Hypixel China",
-		"ip": "x19hypixel.nie.netease.com",
-		"type": "PC",
-		"color": "#E68196"
-	}
-]
+[{
+	"name": "QYZGMC",
+	"ip": "play.qyzgmc.com",
+	"type": "PC"
+}, {
+	"name": "MINEMC",
+	"ip": "play.minemc.cn",
+	"type": "PC"
+}, {
+	"name": "MCLOULOU",
+	"ip": "mcloulou.com",
+	"type": "PC"
+}, {
+	"name": "MCMYLX",
+	"ip": "mc.mcmylx.com",
+	"type": "PC"
+}, {
+	"name": "MC233",
+	"ip": "bgp.mc233.cn",
+	"type": "PC"
+}, {
+	"name": "Hypixel China",
+	"ip": "x19hypixel.nie.netease.com",
+	"type": "PC",
+	"color": "#d0b283"
+}]
