@@ -36,6 +36,12 @@
 		"category": "minigames"
 	},
 	{
+		"name": "Vastlands",
+		"ip": "vastlands.net",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
 		"name": "Ownage",
 		"ip": "ownagepe.com",
 		"type": "PE",
