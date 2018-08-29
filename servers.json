@@ -10,5 +10,101 @@
 		"ip": "play.hivemc.com",
 		"type": "PC",
 		"category": "minigames"
+	},
+	{
+		"name": "Versai",
+		"ip": "versai.pro",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "Sylph Practice",
+		"ip": "practice.sylphhcf.net",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "Sylph HCF",
+		"ip": "sylphhcf.net",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "Valea",
+		"ip": "valeanetwork.tk",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "Ownage",
+		"ip": "ownagepe.com",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "PigRaid",
+		"ip": "pvp.pigraid.com",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "CosmicPE",
+		"ip": "play.cosmicpe.me",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "Nethergames",
+		"ip": "play.nethergames.org",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "Primegames",
+		"ip": "play.primegames.in",
+		"type": "PE",
+		"category": "minigames"
+	},
+	{
+		"name": "FallenTech",
+		"ip": "FallenTech.tk",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "AvengeTech",
+		"ip": "play.avengetech.me",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "VendettaPE",
+		"ip": "vendettamcpe.tk",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "ECPE",
+		"ip": "ecpehub.net",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "PlexiumPE",
+		"ip": "fac.plexiumpvp.net",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "MultiLabs",
+		"ip": "multilabs.net",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "GrandTheft MCPE",
+		"ip": "grandtheft.mcpe.me",
+		"type": "PE",
+		"category": "pocket"
 	}
 ]
